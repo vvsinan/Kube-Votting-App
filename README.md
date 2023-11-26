@@ -42,8 +42,8 @@
 
     Future enhancements planned for [mention enhancements].
 
-📹 Demo: [Insert link to demo video or screencast.]
-![image](https://github.com/vvsinan/Kube-Votting-App/assets/100231044/e7c3aba4-fd90-44d3-bf89-5db35a497d55)
+📹 Demo: 
+
 
 <img width="955" alt="Screenshot 2023-11-26 151638" src="https://github.com/vvsinan/Kube-Votting-App/assets/100231044/99bcf70e-636b-42d5-99ff-7f48e6d73eb4">
 <img width="956" alt="Screenshot 2023-11-26 151811" src="https://github.com/vvsinan/Kube-Votting-App/assets/100231044/9dee7064-199b-48ef-beec-153f472b00c3">
